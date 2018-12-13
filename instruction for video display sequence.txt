@@ -1,0 +1,21 @@
+First row is displaying an input unstable video.
+
+Second row is displaying three video stabilized by Deshaker VirtualDub, Google Youtube Stabilizer, and Adobe Warp Stabilizer.
+
+In our video assessment form, 
+
+Method 1 - Deshaker VirtualDub
+
+Method 2 - Google Youtube Stabilizer
+
+Method 3 - Adobe Warp Stabilizer
+
+Category 1= Regular
+Category 2= Quick_Rotation
+Category 3= Crowd
+Category 4= Parallax
+Category 5= Running
+
+N.B. Video number "Category_6.mp4" (For example "Regular_1.mp4") is repeated video in each category from different categories to assess how sincerely user watches and puts the grade.
+
+In the MOS, the grade for the 6 number is not included.
